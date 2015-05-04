@@ -17,7 +17,7 @@ public class EjemploRepositorio {
     public static void main(String[] args) {
         System.out.println("Hola hola");
         System.out.println("Ejemplo Repositorio 1");
-        System.out.println("Ejemplo Repositorio 2");
+        //System.out.println("Ejemplo Repositorio 2");
         //System.out.println("Ejemplo Repositorio 3");
     }
     
